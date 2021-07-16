@@ -31,37 +31,24 @@ import java.util.*;
   public static void main(String[] args) {
       Scanner scn = new Scanner(System.in);
       int n = scn.nextInt();
-      int sourceBase = scn.nextInt();
-      int destBase = scn.nextInt();
+      int b = scn.nextInt();
+      int ans = abtod(n,b);
+      System.out.println(ans);
      
    }
-  
-   public static int dtoab(int n, int b){
-      int rv = 0;
-      int p = 1;
-      while(n!=0){
-          int dig = n%b;
-          n=n/b;
-          rv+=dig *p;
-          p=p*10;
-      }
-      return rv;
-   }
-   
+
    public static int abtod(int n,int b){
        int rv = 0;
        int p = 1;
        while(n!=0){
-           int ld = n%10;
+           int dig = n%10;
            n = n/10;
            
-           rv+=(ld *p);
-           p+=b;
+           rv += dig * p;
+           p*=b;
        }
        return rv;
    }
    
   }
    
-   
-  
