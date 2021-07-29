@@ -36,6 +36,13 @@ Here ,I have solved the basic questions of Programming in JAVA.
 - [Any Base To Any Base](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/FunctionsAndArrays/Any%20Base%20To%20Any%20Base.java)
 - 
 
+**4. String ,StringBuilder and ArrayList **
+- [Print All Palindromic Substrings](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/Print%20All%20Palindrome%20Substrings.java)
+- [String Compression](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/String%20Compression.java)
+- [Toggle Case](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/Toggle%20Case.java)
+- [String With Difference Of Every Two Consecutive Characters](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/String%20With%20Difference.java)
+- [Print All Permutations Of A String Iteratively](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/Print%20All%20Permutations%20Of%20A%20String%20Iteratively.java)
+- [Remove Primes](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/Remove%20Prime.java)
 
 
 
