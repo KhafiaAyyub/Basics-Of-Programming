@@ -1,4 +1,4 @@
-# Basics Of Programming
+# Programming Questions
 Here ,I have solved the basic questions of Programming in JAVA.
 
 **1. Getting Started**
