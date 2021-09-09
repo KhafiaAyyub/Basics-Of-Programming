@@ -43,7 +43,3 @@ Here ,I have solved the basic questions of Programming in JAVA.
 - [String With Difference Of Every Two Consecutive Characters](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/String%20With%20Difference.java)
 - [Print All Permutations Of A String Iteratively](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/Print%20All%20Permutations%20Of%20A%20String%20Iteratively.java)
 - [Remove Primes](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/Remove%20Prime.java)
-
-
-
-
