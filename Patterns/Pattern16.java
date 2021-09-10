@@ -23,10 +23,11 @@ public static void main(String[] args) {
             for(int j=st;j>=1;j--){
                 System.out.print(j + "\t");
                // val--;
+
             }
              System.out.println();
            st++;
            sp-=2;
        }
-    }
+   }
 }
