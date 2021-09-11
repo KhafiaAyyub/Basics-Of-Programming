@@ -34,7 +34,7 @@ Here ,I have solved the basic questions of Programming in JAVA.
 - [Decimal To Any Base](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/FunctionsAndArrays/Decimal%20to%20Any%20Base.java)
 - [Any Base To Decimal](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/FunctionsAndArrays/AnyBaseToDecimal.java)
 - [Any Base To Any Base](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/FunctionsAndArrays/Any%20Base%20To%20Any%20Base.java)
-- 
+ 
 
 **4. String ,StringBuilder and ArrayList**
 - [Print All Palindromic Substrings](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/String%2CString%20Builder%20and%20ArrayList.java/Print%20All%20Palindrome%20Substrings.java)
