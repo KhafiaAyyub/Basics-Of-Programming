@@ -21,12 +21,6 @@ Here ,I have solved the basic questions of Programming in JAVA.
 - [Pattern 3](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern3.java)
 - [Pattern 4](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern4.java)
 - [Pattern 5](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern5.java)
-- [Pattern 6](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern6.java)
-- [Pattern 7](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern7.java)
-- [Pattern 8](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern8.java)
-- [Pattern 9](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern9.java)
-- [Pattern 10](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern10.java)
-- [Pattern 11](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern11.java)
 
 
 **3. Functions And Arrays**
