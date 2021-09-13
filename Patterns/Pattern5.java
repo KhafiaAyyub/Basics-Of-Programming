@@ -24,11 +24,7 @@ public class Main {
                 st-=2;
                 sp++;
             }
-            System.out.println();
-            
+            System.out.println();   
         }
-        
-    
-
     }
 }
