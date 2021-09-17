@@ -23,6 +23,8 @@ Here ,I have solved the basic questions of Programming in JAVA.
 - [Pattern 5](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Patterns/Pattern5.java)
 
 
+
+
 **3. Functions And Arrays**
 - [Digit Frequency](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/FunctionsAndArrays/DigitFrequency.java)
 - [Decimal To Any Base](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/FunctionsAndArrays/Decimal%20to%20Any%20Base.java)
