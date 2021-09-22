@@ -1,5 +1,5 @@
 # Programming Questions
-Here ,I have solved the basic questions of Programming in JAVA.
+Here ,I have solved the basic questions of Programming in JAVA Language.
 
 **1. Getting Started**
 - [Grading System](https://github.com/KhafiaAyyub/Basics-Of-Programming/blob/main/Getting%20Started/Grading%20System.java)
